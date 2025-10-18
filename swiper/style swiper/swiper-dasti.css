@@ -1,0 +1,63 @@
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slider-1-setting {
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.swiper-slide {
+    border-radius: 30px;
+}
+
+
+
+.slider-text-setting-1 {
+    text-align: center;
+    text-align: right;
+    position: relative;
+    bottom: 25px;
+}
+
+.yala {
+
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    /* overflow: hidden; */
+
+}
+
+.yala2 {
+    border-radius: 20px;
+
+}
+
+.setting {
+    background-image: url(test-bg.png);
+    background-attachment: fixed;
+}
+

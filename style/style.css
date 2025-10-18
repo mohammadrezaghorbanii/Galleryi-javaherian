@@ -1,0 +1,207 @@
+body {
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* header setting start */
+
+.nav-setting-1 {
+    /* background-image: url(../image/yaladigeeeeeeeeee.png);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: khaki;
+}
+
+.search-header-1 {
+
+    background-color: khaki;
+    border-radius: 20px;
+    position: relative;
+    left: 7%;
+
+
+}
+
+.header-input-text {
+
+    border-radius: 20px;
+    width: 160px;
+
+
+}
+
+
+.header-input-submit {
+
+    text-align: center;
+    border-radius: 50%;
+    background-color: khaki;
+    border: none;
+    color: white;
+
+}
+
+.material-symbols-outlined {
+    color: white;
+    position: relative;
+    top: 2%;
+    right: 1%;
+}
+
+.yaladige {
+
+    position: sticky;
+}
+
+.header-input-submit:hover {
+    background-color: rgb(255, 239, 99);
+
+}
+
+
+/* header setting end */
+
+/* slider top start */
+.br {
+    border-radius: 8px;
+}
+
+.slider2-custom-1 {
+
+    transition: all 0.3s ease;
+    border-radius: 8px;
+
+
+}
+
+.slider2-custom-1:hover {
+    transform: translateY(-15px);
+}
+
+.test {
+
+    background-color: transparent;
+
+}
+
+.test1 {
+
+    position: relative;
+    left: 67px;
+}
+
+/* slider top end */
+
+/* main start */
+/* 
+.bg-1-mardane {
+    background-image: url(../image/saatmardane.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+
+}
+
+.bg-1-set{
+    background-image: url(../image/saatset.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+
+}
+
+.bg-1-zanane{
+    background-image: url(../image/saatzanane.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+
+} */
+
+
+.gheymat-mashsolat-1 {
+    background-color: khaki;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    filter: drop-shadow(2px 2px 5px gray);
+    
+}
+
+.size-1{
+    width: 140px;
+}
+
+
+.mahsol-gerd-1{
+    width: 200px;
+}
+
+.section-mahsolat-gerd-1{
+
+    position: relative;
+    top: 150px;
+    justify-items: center;
+}
+
+.tozihat-helper{
+    background-color: white;
+    filter: drop-shadow(2px 2px 5px gray);
+    width: 240px;
+    height: 450px;
+    overflow: hidden;
+    margin-top: 300px;
+    border-radius: 8px;
+
+}
+
+.control{
+    height: 200px;
+    width: 220px;
+    padding: -30px;
+}
+
+.test11{
+    position: relative;
+    left: 12px;
+    height: 200px;
+    overflow: hidden;
+    width: 250px
+}
+
+.test22{
+
+    position: relative;
+    top: 130px;
+    right: 35px;
+
+}
+
+.yaladigepoldari{
+    position: relative;
+    bottom: 90px;
+    left: 25px;
+}
+
+.moshahede{
+
+    position: relative;
+    left: 20px;
+    bottom: 60px;
+
+}
+
+.date{
+
+    position: relative;
+    right: 15px;
+}
+
+.mahsol-1{
+    position: relative;
+    right: 70px;
+}
+/* main end */
